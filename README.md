@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahnaf Akif Avro</h1>
 <h3 align="center">Aspiring Computer Scientist & AI Enthusiast</h3>
 
-<img width="240" height="240" alt="making-coffee-kosher" src="https://github.com/user-attachments/assets/3b48146f-5243-4f47-bf6e-16c42150cbaa" />
+<h3 align="center"><img width="240" height="240" alt="making-coffee-kosher" src="https://github.com/user-attachments/assets/3b48146f-5243-4f47-bf6e-16c42150cbaa" /></h3>
 
 
 - 🔭 I’m currently working on **Python-based ML models (like Myo-Predict) and hardware projects using Arduino and Raspberry Pi**
